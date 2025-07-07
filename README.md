@@ -1,10 +1,10 @@
-# 🎬 Netflix Data Cleaning and Analysis Project (ELT)
+# Netflix Data Cleaning and Analysis Project (ELT)
 
 This project walks through a complete ELT pipeline using **Python**, **SQLAlchemy**, and **SQL Server** to clean and analyze Netflix titles data.
 
 ---
 
-## 🚀 What This Project Covers
+## What This Project Covers
 
 - Create a base table in SQL Server
 - Load the Netflix dataset from CSV using **Pandas**
@@ -15,7 +15,7 @@ This project walks through a complete ELT pipeline using **Python**, **SQLAlchem
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** – for data loading and preprocessing
 - **SQLAlchemy** – connects Python to SQL Server
@@ -24,7 +24,7 @@ This project walks through a complete ELT pipeline using **Python**, **SQLAlchem
 
 ---
 
-## 📂 Steps
+## Steps
 
 ### 1. Create Table
 Run `netflix_raw.sql` to create the `netflix_raw` table in SQL Server.
@@ -50,16 +50,16 @@ Use SQL to answer:
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
-- 🎭 Top countries by comedy movie count  
-- 🎬 Most active directors per year  
-- ⏱️ Average duration of movies by genre  
-- 🎥 Directors who created both horror and comedy titles  
+- Top countries by comedy movie count  
+- Most active directors per year  
+- Average duration of movies by genre  
+- Directors who created both horror and comedy titles  
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -71,7 +71,7 @@ Use SQL to answer:
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 - Python 3.x  
 - `pandas`, `sqlalchemy`  
@@ -80,6 +80,6 @@ Use SQL to answer:
 
 ---
 
-## 🔗 Dataset Source
+## Dataset Source
 
 [Netflix Titles – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
